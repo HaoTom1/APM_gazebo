@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ArduPilot Project
 
 <a href="https://ardupilot.org/discord"><img src="https://img.shields.io/discord/674039678562861068.svg" alt="Discord">
@@ -159,3 +160,7 @@ for reviewing patches on their specific area.
   - ***Subsystem***: ESP32,AP_HAL_ESP32
 - [Charles Villard ](https://github.com/Silvanosky):
   - ***Subsystem***: ESP32,AP_HAL_ESP32
+=======
+# APM_gazebo
+在Ubuntu20.04下进行APM的固件，软件仿真平台的搭建
+>>>>>>> 00efe7dadf8d92c72da0fe3878d1e986589acf0b
